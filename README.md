@@ -2,8 +2,8 @@
 
 ## Métodologia usada para o desenvolvimento do projeto
 
-![CRIPS-DS](img/CRIPS-DS-RE.png)
+![CRIPS-DS](img/CRIPS-DS-RE.jpg)
 
 ## Modelo de négocio do projeto
 
-![CRIPS-DS](img/modelo-negocio-RE.png)
+![CRIPS-DS](img/modelo-negocio-RE.jpg)
