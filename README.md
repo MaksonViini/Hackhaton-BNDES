@@ -2,7 +2,7 @@
 
 ## Métodologia usada para o desenvolvimento do projeto
 
-![CRIPS-DS](img/CRIPS-DS-RE.jpg)
+![CRIPS-DS](img/CRISP-DS-RE.jpg)
 
 ## Modelo de négocio do projeto
 
